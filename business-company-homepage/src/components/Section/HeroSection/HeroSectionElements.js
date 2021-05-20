@@ -1,5 +1,5 @@
 import styled from "styled-components";
-import heroImage from "../../../images/hero3.jpg";
+// import heroImage from "../../../images/hero3.jpg";
 
 export const HeroContainer = styled.div`
   display: flex;

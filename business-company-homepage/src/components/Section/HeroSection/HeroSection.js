@@ -1,4 +1,5 @@
-import React, { useState } from "react";
+// import React, { useState } from "react";
+import React from "react";
 import { UpworkButton } from "../../Button/ButtonElements";
 import {
   HereImg,
@@ -12,10 +13,10 @@ import {
 import hereImg from "../../../images/hero3.jpg";
 
 const HeroSection = () => {
-  const [hover, setHover] = useState(false);
-  const onHover = () => {
-    setHover(!hover);
-  };
+  // const [hover, setHover] = useState(false);
+  // const onHover = () => {
+  //   setHover(!hover);
+  // };
 
   return (
     <HeroContainer id="home">

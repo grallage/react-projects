@@ -12,7 +12,7 @@ import {
   NavBtnGroup,
   NavBtnLink,
 } from "./NavbarElements";
-import { animateScroll as scroll } from "react-scroll";
+// import { animateScroll as scroll } from "react-scroll";
 
 const Navbar = ({ toggle }) => {
   const [scrollNav, setScrollNav] = useState(false);
@@ -29,9 +29,9 @@ const Navbar = ({ toggle }) => {
     window.addEventListener("scroll", changeNav);
   }, []);
 
-  const toggleHome = () => {
-    scroll.scrollToTop();
-  };
+  // const toggleHome = () => {
+  //   scroll.scrollToTop();
+  // };
 
   return (
     <Nav scrollNav={scrollNav}>
