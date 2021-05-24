@@ -50,6 +50,7 @@
   max-width: 1000px;
   display: flex;
   justify-content: center;
+  overflow: hidden;
 }
 
 .footer-link-wrapper {
