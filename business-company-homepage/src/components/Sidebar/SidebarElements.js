@@ -63,7 +63,8 @@ export const SidebarBtnGroup = styled.div`
   justify-content: center;
 `;
 
-export const SidebarBtnSignin = styled(LinkRouter)`
+// export const SidebarBtnSignin = styled(LinkRouter)`
+export const SidebarBtnSignin = styled.a`
   border-radius: 25px;
   background: #14a76c;
   color: #fff;

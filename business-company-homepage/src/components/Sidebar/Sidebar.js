@@ -28,7 +28,12 @@ const Sidebar = ({ isOpen, toggle }) => {
       </SidebarMenu>
 
       <SidebarBtnGroup>
-        <SidebarBtnSignin to="/">Sign in</SidebarBtnSignin>
+        <SidebarBtnSignin
+          href="https://www.upwork.com/freelancers/~01bcd3daa908688489"
+          target="_blank"
+        >
+          Contact Me
+        </SidebarBtnSignin>
       </SidebarBtnGroup>
     </SidebarContainer>
   );

@@ -45,11 +45,10 @@ const Footer = () => {
             <FooterLinkItems>
               <FooterLinkTitle>Videos</FooterLinkTitle>
               <FooterLink to="/"></FooterLink>
-              <FooterLink to="/">How it works</FooterLink>
-              <FooterLink to="/">Testimonials</FooterLink>
-              <FooterLink to="/">Careers</FooterLink>
-              <FooterLink to="/">Investors</FooterLink>
-              <FooterLink to="/">Terms of Sercie</FooterLink>
+              <FooterLink to="/">Submit Video</FooterLink>
+              <FooterLink to="/">Ambassadors</FooterLink>
+              <FooterLink to="/">Agency</FooterLink>
+              <FooterLink to="/">Influencer</FooterLink>
             </FooterLinkItems>
           </FooterLinksWraper>
 
@@ -57,20 +56,18 @@ const Footer = () => {
             <FooterLinkItems>
               <FooterLinkTitle>Contact Us</FooterLinkTitle>
               <FooterLink to="/"></FooterLink>
-              <FooterLink to="/">How it works</FooterLink>
-              <FooterLink to="/">Testimonials</FooterLink>
-              <FooterLink to="/">Careers</FooterLink>
-              <FooterLink to="/">Investors</FooterLink>
-              <FooterLink to="/">Terms of Sercie</FooterLink>
+              <FooterLink to="/">Contact</FooterLink>
+              <FooterLink to="/">Support</FooterLink>
+              <FooterLink to="/">Destinations</FooterLink>
+              <FooterLink to="/">Sponsorships</FooterLink>
             </FooterLinkItems>
             <FooterLinkItems>
               <FooterLinkTitle>Social Media</FooterLinkTitle>
               <FooterLink to="/"></FooterLink>
-              <FooterLink to="/">How it works</FooterLink>
-              <FooterLink to="/">Testimonials</FooterLink>
-              <FooterLink to="/">Careers</FooterLink>
-              <FooterLink to="/">Investors</FooterLink>
-              <FooterLink to="/">Terms of Sercie</FooterLink>
+              <FooterLink to="/">Instagram</FooterLink>
+              <FooterLink to="/">Facebook</FooterLink>
+              <FooterLink to="/">Youtube</FooterLink>
+              <FooterLink to="/">Twitter</FooterLink>
             </FooterLinkItems>
           </FooterLinksWraper>
         </FooterLinksContainer>
